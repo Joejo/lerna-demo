@@ -11,5 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "sdutils": "git+http://gitlab.internal.sensorsdata.cn/components/utils/sdutils.git#semver:^0"
-  }
+  },
+  "gitHead": "5e8ee4ff67023ee18e98ae7b97308dfe6c43af39"
 }
